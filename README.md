@@ -1,6 +1,6 @@
 # Author Page — Vincenzo Bumbalo, MD
 
-This repository contains the official author page of Vincenzo Bumbalo, MD — Analytical Psychotherapist, Jungian-oriented Psychoanalyst, and Independent Researcher.
+This repository contains the official author page of Vincenzo Bumbalo, MD — Analytical Psychotherapist, Jungian-oriented Psychoanalyst, and Independent Researcher based in the United States .
 
 The project provides a minimal, elegant, and fast-loading HTML page designed for GitHub Pages. It presents essential professional information, including clinical background, theoretical orientation, research interests, and links to official publications on Zenodo and OSF.
 
