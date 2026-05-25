@@ -9,5 +9,5 @@ The project provides a minimal, elegant, and fast-loading HTML page designed for
 
 ## Purpose
 To offer a clean, accessible, and professional public profile for academic, clinical, and research visibility.
-This repository offers a clean, accessible, and professional public profile for academic, clinical, and research visibility. 
+
 DOI: https://doi.org/10.5281/zenodo.20380157
