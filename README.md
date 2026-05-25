@@ -11,3 +11,7 @@ The project provides a minimal, elegant, and fast-loading HTML page designed for
 To offer a clean, accessible, and professional public profile for academic, clinical, and research visibility.
 
 DOI: https://doi.org/10.5281/zenodo.20380157
+## Citation
+If you use this repository or reference its content, please cite it as follows:
+
+Bumbalo, V. (2026). *Author Page — Vincenzo Bumbalo, MD* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20380157
