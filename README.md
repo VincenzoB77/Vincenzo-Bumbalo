@@ -9,3 +9,4 @@ The project provides a minimal, elegant, and fast-loading HTML page designed for
 
 ## Purpose
 To offer a clean, accessible, and professional public profile for academic, clinical, and research visibility.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20380157.svg)](https://doi.org/10.5281/zenodo.20380157)
